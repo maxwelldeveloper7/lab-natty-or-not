@@ -1,18 +1,18 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Introdução à Robótica 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à Robótica**, a ser lecionado no curso **Técnico de Informática para Internet.**
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Fotor AI Image Creator](https://www.fotor.com/images/create)** para criar a arte visual do e-book;
 - Ferramenta **Docs do Workspace** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Introdução à Robótica, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Fotor" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Documentos do Google Workspace, por ser uma ferramenta grátis para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como a robótica pode ser utilizada para o benefício da humanidade.
 
 [LINK PARA O E-BOOK AQUI]()
 

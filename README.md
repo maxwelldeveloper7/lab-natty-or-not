@@ -19,13 +19,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ---
 
-# Ebook - Introdução à Robótica 
+# E-Book - Introdução à Robótica 
 
 ## 📒 Descrição
 Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à Robótica**, a ser lecionado no curso **Técnico de Informática para Internet.**
 
 ## 🤖 Tecnologias Utilizadas
 ![ChatGPT Badge](https://img.shields.io/badge/Powered_by-ChatGPT_3.5-1f77b4?logo=openai)
+![Fotor AI Badge](https://img.shields.io/badge/Powered_by-Fotor_AI_Image_Creator-FF5733?logo=fotor.com&logoColor=white)
 
 
 ## 🧐 Processo de Criação

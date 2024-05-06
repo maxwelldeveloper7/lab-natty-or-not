@@ -182,5 +182,8 @@ Claro, aqui está a trilha completa atualizada com o enfoque em Python:
 ---
 
 Essa versão atualizada foca em Python como a linguagem primária para programação de robôs e integra ideias práticas e teóricas ao longo do curso. Se precisar de sugestões adicionais para atividades práticas ou projetos específicos, estou por aqui para ajudar.
-
-[***Continuação do chat - Módulo 01***](modulo01.md)
+[***Continuação do chat - Módulo 01***](modulo01.md)<br>
+[***Continuação do chat - Módulo 01***](modulo01.md)<br>
+[***Continuação do chat - Módulo 02***](modulo02.md)<br>
+[***Continuação do chat - Módulo 03***](modulo03.md)<br>
+[***Continuação do chat - Módulo 04***](modulo04.md)<br>
