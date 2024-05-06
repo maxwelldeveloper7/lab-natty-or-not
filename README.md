@@ -17,26 +17,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+---
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook - Introdução à Robótica 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à Robótica**, a ser lecionado no curso **Técnico de Informática para Internet.**
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+![ChatGPT Badge](https://img.shields.io/badge/Powered_by-ChatGPT_3.5-1f77b4?logo=openai)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. [Elaboração de uma trilha, utilizando prompts para contexto e refinamento](./prompts/trilha.md)
+2. [Criação dos conteúdos das aulas do módulo 01](./prompts/modulo01.md)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
