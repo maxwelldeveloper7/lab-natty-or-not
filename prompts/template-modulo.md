@@ -340,6 +340,7 @@ Com esse prompt, a IA generativa de imagens deve ter informações suficientes p
 <img src=".././assets/fotor-ai-20240506155753.jpg">
 
 [***Voltar para Trinlha***](./trilha.md)<br>
+[***Continuação do chat - Módulo 01***](modulo01.md)<br>
 [***Continuação do chat - Módulo 02***](modulo02.md)<br>
 [***Continuação do chat - Módulo 03***](modulo03.md)<br>
 [***Continuação do chat - Módulo 04***](modulo04.md)<br>
