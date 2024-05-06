@@ -27,14 +27,18 @@ Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à 
 ## 🤖 Tecnologias Utilizadas
 ![ChatGPT Badge](https://img.shields.io/badge/Powered_by-ChatGPT_3.5-1f77b4?logo=openai)
 ![Fotor AI Badge](https://img.shields.io/badge/Powered_by-Fotor_AI_Image_Creator-FF5733?logo=fotor.com&logoColor=white)
-
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Fotor AI Image Creator](https://www.fotor.com/images/create)** para criar a arte visual do e-book;
+- Ferramenta **Documentos do Google Workspace** para edição.
 
 ## 🧐 Processo de Criação
 1. [Elaboração de uma trilha, utilizando prompts para contexto e refinamento](./prompts/trilha.md)
 2. [Criação dos conteúdos das aulas do módulo 01](./prompts/modulo01.md)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, para a Introdução à Robótica.
+
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
