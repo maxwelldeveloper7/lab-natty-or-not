@@ -56,4 +56,7 @@ Se quiser aprofundar algum aspecto específico ou incluir atividades para a aula
 crie um prompt para ia generativa de imagens para gerar uma ilustração para esta aula.
 ```
 ### Resultado:
-<img src="./assets/fotor-ai-20240506125150.jpg">
+<img src=".././assets/fotor-ai-20240506125150.jpg" width="300px">
+<img src=".././assets/fotor-ai-20240506151853.jpg" width="300px">
+<img src=".././assets/fotor-ai-20240506151956.jpg" width="300px">
+<img src=".././assets/fotor-ai-2024050615271.jpg" width="300px">
