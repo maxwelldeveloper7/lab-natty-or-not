@@ -1,4 +1,4 @@
-# Prompts para criar o conteúdo do módulo 01
+# Prompts para criar o conteúdo do módulo 02
 ## 1. Prompt para criação da aula 04 do módulo 02:
 ```
 Comporte-se com um especialista em robótica e escreva o conteúdo da Aula 4: Componentes de um Robô do Módulo 2: Componentes e Mobilidade
