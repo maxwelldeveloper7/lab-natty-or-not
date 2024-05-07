@@ -2,7 +2,7 @@
 
 1. **Criei um prompt para contextualizar minha ideia.**
 ```
-Sou [AUTORIDADE], professor do Curso Técnico de Informática para internet e leciono várias disciplinas neste curso. Em bora já exista um plano de aula não há materia didático para utilizar em minhas aulas, preciso de seu auxílio para criar uma trinha de aprendizado e criar conteúdo para cada tópico da trilha. Iremos criar material para uma disciplina apenas neste momento. Antes disso vamos analizar o [CONTEXTO] da grade curricular:
+Sou [AUTORIDADE], professor no Curso Técnico de Informática para Internet e leciono várias disciplinas neste curso. Embora já exista um plano de aula não há material didático para utilizar em minhas aulas, preciso de seu auxílio para criar uma trinha de aprendizado e criar conteúdo para cada tópico da trilha. Iremos criar material para uma disciplina apenas neste momento. Antes disso vamos analizar o [CONTEXTO] da grade curricular:
 
 {AUTORIDADE}
 > Nome: Maxwell de Oliveira Chaves
@@ -71,7 +71,7 @@ Essa trilha de aprendizado cobre os tópicos principais do componente curricular
 ---
 3. **Criei outro prompt para refinar a trilha deixando mais compatível com as necessidades de meus alunos:**
 ```
-muito bom, preciso que toda parte prática seja programável em python pois é uma linguagem que meus alunos já têm conhecimento básico sobre ela.
+muito bom, preciso que toda parte prática seja programável em python pois é a linguagem que os meus alunos já possuem conhecimento básico.
 ```
 
 4. **Resultado:**
