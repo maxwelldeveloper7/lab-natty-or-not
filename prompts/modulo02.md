@@ -113,8 +113,6 @@ A ilustração deve ser detalhada e informativa, com rótulos para cada componen
 
 Este prompt deve fornecer informações claras para a IA generativa de imagens criar uma ilustração que represente os componentes de um robô de maneira visual e educacional. Se precisar de ajustes ou mais detalhes, posso ajudar a refinar o prompt.
 
-<img src=".././assets/e85695e1d67e49ce8178361a851c1fb2.png">
-
 ---
 
 ## 3. Prompt para criação da aula 05 do módulo 02:
@@ -244,8 +242,6 @@ A ilustração deve ter uma composição clara e organizada, mostrando cada tipo
 ---
 
 Com esse prompt, a IA generativa de imagens deve ter informações suficientes para criar uma ilustração que demonstre os diferentes tipos de mobilidade para robôs e suas aplicações. Se precisar de ajustes ou mais detalhes, fique à vontade para pedir.
-
-<img src=".././assets/fotor-ai-20240506154415.jpg">
 
 ## 5. Prompt para criação da aula 06 do módulo 02:
 ```
@@ -391,7 +387,3 @@ A ilustração deve ser detalhada e informativa, com rótulos claros para cada t
 
 Com esse prompt, a IA generativa de imagens deve ter informações suficientes para criar uma ilustração que mostre os sensores em robôs de maneira clara e educativa. Se precisar de ajustes ou mais detalhes, posso ajudar a refinar o prompt.
 
-[***Voltar para Trinlha***](./trilha.md)<br>
-[***Continuação do chat - Módulo 01***](modulo01.md)<br>
-[***Continuação do chat - Módulo 03***](modulo03.md)<br>
-[***Continuação do chat - Módulo 04***](modulo04.md)<br>

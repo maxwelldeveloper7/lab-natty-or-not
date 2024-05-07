@@ -85,11 +85,6 @@ A imagem deve ser colorida, com detalhes suficientes para destacar cada era da r
 
 Este prompt deve dar à IA generativa de imagens informações suficientes para criar uma ilustração abrangente para sua aula sobre o conceito de robótica, destacando a evolução e os diferentes tipos de robôs. Se quiser mais detalhes ou precisar de ajustes no prompt, estou por aqui para ajudar.
 
-<img src=".././assets/fotor-ai-20240506125150.jpg" width="300px">
-<img src=".././assets/fotor-ai-20240506151853.jpg" width="300px">
-<img src=".././assets/fotor-ai-20240506151956.jpg" width="300px">
-<img src=".././assets/fotor-ai-2024050615271.jpg" width="300px">
-
 ---
 
 ## 3. Prompt para criação da aula 02 do módulo 01:
@@ -215,7 +210,6 @@ A imagem deve ter uma composição equilibrada, mostrando claramente cada setor 
 
 Com esse prompt, a IA generativa de imagens deve ter um guia claro para criar uma ilustração que demonstre as vantagens da robótica em diferentes cenários. Se precisar de ajustes ou mais detalhes, fique à vontade para pedir!
 
-<img src=".././assets/fotor-ai-20240506154415.jpg">
 
 ## 5. Prompt para criação da aula 03 do módulo 01:
 ```
@@ -336,10 +330,3 @@ A ilustração deve ser clara e detalhada, com rótulos para cada componente. Us
 ---
 
 Com esse prompt, a IA generativa de imagens deve ter informações suficientes para criar uma ilustração que mostre a arquitetura de um robô, incluindo seus componentes principais e várias configurações típicas. Se precisar de ajustes ou mais detalhes, fico feliz em ajudar.
-
-<img src=".././assets/fotor-ai-20240506155753.jpg">
-
-[***Voltar para Trinlha***](./trilha.md)<br>
-[***Continuação do chat - Módulo 02***](modulo02.md)<br>
-[***Continuação do chat - Módulo 03***](modulo03.md)<br>
-[***Continuação do chat - Módulo 04***](modulo04.md)<br>
