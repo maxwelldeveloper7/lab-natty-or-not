@@ -22,7 +22,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # E-Book - Introdução à Robótica 
 
 ## 📒 Descrição
-Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à Robótica**, a ser lecionado no curso **Técnico de Informática para Internet.**
+Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à Robótica**, a ser lecionado em um curso **Técnico de Informática para Internet.**
 
 ## 🤖 Tecnologias Utilizadas
 ![ChatGPT Badge](https://img.shields.io/badge/Powered_by-ChatGPT_3.5-1f77b4?logo=openai)
@@ -33,18 +33,15 @@ Este é um projeto de criação de conteúdo para  disciplina **Intrudoção à 
 - IA Generativa **[Fotor AI Image Creator](https://www.fotor.com/images/create)** para criar a arte visual do e-book;
 - Ferramenta **Google Docs** para edição.
 
-## 🧐 Processo de Criação
-1. [Elaboração de uma trilha, utilizando prompts para contexto e refinamento](./prompts/trilha.md)
-2. [Criação dos conteúdos das aulas do módulo 01](./prompts/modulo01.md)
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Introdução à Robótica, estruturar o conteúdo e refinar minhas ideias. Também utilizei o "Fotor" para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Google Docs, por ser uma ferramenta grátis para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, para a Introdução à Robótica.
+O e-book apresenta um conteúdo completo para a Introdução à Robótica e com ilustrações ricas.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
+Criar este e-book foi uma experiência empolgante, que me permitiu elaborar um conteúdo rico em texto e imagem, e em pouco tempo.
 
 ### Exemplos e Insigths
 
