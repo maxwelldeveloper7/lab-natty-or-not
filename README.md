@@ -19,4 +19,4 @@ O e-book apresenta um conteúdo completo para a Introdução à Robótica e com 
 [LINK PARA O E-BOOK AQUI](./exemplos/Desvendando_a_Robotica_com_Python_-_Uma_Jornada_de_Criacao_e_Programacao_assinado.pdf)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência empolgante, que me permitiu elaborar um conteúdo rico em texto e imagem, e em pouco tempo.
+Criar este e-book foi uma experiência impactante, que me permitiu elaborar um conteúdo rico em texto e imagem, e em pouco tempo. Agora tudo mudou!
